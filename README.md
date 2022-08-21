@@ -8,3 +8,5 @@
 -   Import component này trong component App và sử dụng file json trong component app và show kết quả.
 -   Tạo thêm 1 nút xóa all member. Khi click vào nút này thì xóa toàn bộ member và hiển thị ra chữ "Danh sách lớp trống"
 -   Viết dưới dạng class component.
+
+Demo tại [đây](https://sprightly-khapse-79ad70.netlify.app/)
